@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml-stylesheet type = "text/css" href="BuildLogStyleSheet.css"?>
+<BuildApplicationLog>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Application</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Start "Application" target build [2022-10-20T15:18:31]</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:qrencode.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:4D InternetCommands.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:Media Access Control.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:Regex Plugin.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:zint.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:cURL FTP.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:MyConnect Plugin.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:XL Plugin.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:PostgreSQL Plugin.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:Win32API.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:SRP.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Plug-in copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Plugins:NTK Plugin.bundle: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Plugins:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:4D_Info_Report_v4.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:AdminWindow.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:prog.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:Sussol_Moneyworks.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:ServerAdmin.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Users:jonna:Documents:GitHub:msupply:Components:FuzzyToolsSource.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D SVG.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D Progress.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D ViewPro.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D NetKit.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D WritePro Interface.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D Mobile App Server.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Component copying from Macintosh HD:Applications:4D v19 R3:4D.app:Contents:Components:4D Widgets.4dbase: to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Components:.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>Start copying files : Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Database:mSupply.4DZ</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Common</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>End copying files : Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Database:mSupply.4DZ</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Application</Target>
+    <CodeDesc>Copying license file</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>License file copying from Macintosh HD:Users:jonna:Library:Application Support:4D:Licenses:R-PNUD190UUC0016PLB50F467_v19R3.license4D to Macintosh HD:Users:jonna:Documents:GitHub:msupply_Build:Final Application:mSupply.app:Contents:Licenses:1.license4D.</Message>
+  </Log>
+
+  <Log>
+    <MessageType>Comment</MessageType>
+    <Target>Application</Target>
+    <CodeDesc>NO_ERR</CodeDesc>
+    <CodeId>0</CodeId>
+    <Message>End "Application" target build [2022-10-20T15:18:56]</Message>
+  </Log>
+
+</BuildApplicationLog>
